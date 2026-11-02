@@ -1,11 +1,13 @@
-name=Assignment-1.1.md
-Assignment 1.1 — How a Website Works[cite: 1]
-Task: Explain in a single paragraph how a website opens on the screen after typing a URL.[cite: 1]
-What to do:
+name=Assignment-7.4.md
+Assignment 7.4 — Modern Landing Page Header[cite: 34]
+What to build: A header and hero section for a modern landing page[cite: 34].
+Steps:
 
-1. Understand the basic roles of browser, client, server, and database.[cite: 1]
-2. Write the meanings of HTTP and HTTPS.[cite: 1]
-3. Explain the request-response cycle.[cite: 1]
-4. Write the differences between a static and a dynamic website.[cite: 1]
-5. Open Chrome DevTools and inspect requests in the Network tab of any website.[cite: 1]
-Submission: An explanatory paragraph and a screenshot of the Network tab.[cite: 1]
+1. Add a logo, navigation links, and a CTA button in the header[cite: 34].
+2. Create a heading, paragraph, and button in the hero section[cite: 34].
+3. Add an illustration or image[cite: 34].
+4. Arrange the text and image side-by-side using Flexbox[cite: 34].
+5. Properly align the hero content[cite: 34].
+6. Style the footer or sticky section using earlier CSS concepts[cite: 34].
+7. Check the layout at different widths[cite: 34].
+Submission: Complete code for the landing page header + hero section[cite: 34].
